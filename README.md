@@ -134,8 +134,8 @@ The project includes 50+ mock job listings with:
 | Name | GitHub |
 |------|--------|
 | **Shivam Dubey** | [GitHub Profile](https://github.com/devsivv) |
-| **Dhrutabrata** | [GitHub Profile](#) |
-| **Saloni** | [GitHub Profile](#) |
+| **Dhrutabrata Biswal** | [GitHub Profile](https://github.com/Dhruta25) |
+| **Saloni Sahoo** | [GitHub Profile](https://github.com/saloni259) |
 
 ---
 
