@@ -191,9 +191,9 @@ export function JobDashboard() {
           <div className="flex items-center justify-between mb-4">
             <div>
               <h1 className="text-2xl font-bold text-foreground">
-                Job<span className="text-primary">Finder</span>
+                Hire<span className="text-primary">Sphere</span> <span className="text-muted-foreground font-normal text-lg">Discover</span>
               </h1>
-              <p className="text-sm text-muted-foreground">Discover your perfect opportunity</p>
+              <p className="text-sm text-muted-foreground">Find your perfect opportunity</p>
             </div>
             <ThemeToggle />
           </div>

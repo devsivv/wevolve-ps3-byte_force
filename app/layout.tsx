@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "JobFinder - Discover Your Perfect Opportunity",
+  title: "HireSphere Discover - Find Your Perfect Opportunity",
   description: "Find and filter through thousands of job listings with personalized match scores and smart filtering.",
   generator: "v0.app",
   icons: {
